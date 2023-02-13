@@ -1,2 +1,2 @@
 #!/bin/bash
-4-lastlines
+cat /etc/passwd /etc/hosts
